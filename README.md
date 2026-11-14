@@ -1,2 +1,5 @@
-# Inovative_it
-Report and PPT on 4-bit ALU Design and Simulation 
+@profprabhat7-lang
+Kishan Pandey
+20261010107004
+Mtech DS
+SRMU
